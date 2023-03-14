@@ -65,4 +65,4 @@ This project was an internal Twilio effort for the FY22 H1 Growth Build Challeng
 
 Twilion builders:
 
-[@sjohnson](https://www.linkedin.com/in/sarahevelynn/) [@asaulnier](https://www.linkedin.com/in/adamsaulnier/) [@gbernard](https://www.linkedin.com/in/gradybernard/) [@cmurphy](https://www.linkedin.com/in/caitlinadian/)
+[@sbiffle](https://www.linkedin.com/in/sarahevelynn/) [@asaulnier](https://www.linkedin.com/in/adamsaulnier/) [@gbernard](https://www.linkedin.com/in/gradybernard/) [@cmurphy](https://www.linkedin.com/in/caitlinadian/)
