@@ -61,7 +61,7 @@ twilio serverless:deploy
 
 ## Brought to you by Team 5280! 👋
 
-This project was an internal Twilio effort for the FY22 H1 Growth Build Challenge.
+This project was an internal Twilio effort for the Growth Build Challenge.
 
 Twilion builders:
 
